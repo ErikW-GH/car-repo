@@ -10,7 +10,7 @@ public class Main {
 
         var sav = newDB.saveCar(newCar);
 
-        var rem = newDB.removeCar(5);
+        var rem = newDB.removeCar(1);
 
         /*if (removeResult){
             System.out.println("Car removed");

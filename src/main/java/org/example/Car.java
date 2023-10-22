@@ -41,7 +41,7 @@ public class Car {
         this.year = year;
     }
 
-    // Used only for when we want have all properties
+    // Used only for when we want to have all properties
     // As an example for a database
     public Car(int id, String brand, String model, int year) {
         this.id = id;
